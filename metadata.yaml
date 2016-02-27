@@ -1,0 +1,31 @@
+_repo: The-Jargon-File-Version-400-24-Jul-1996_817
+contributor:
+  creator:
+    editors:
+    - agent_name: Raymond, Eric S.
+      birthdate: 1957
+      gutenberg_agent_id: '4705'
+      url: http://www.gutenberg.org/2009/agents/4705
+      wikipedia: http://en.wikipedia.org/wiki/Eric_S._Raymond
+    - agent_name: Steele, Guy L.
+      alias: Steele, Guy Lewis, Jr.
+      birthdate: 1954
+      gutenberg_agent_id: '4706'
+      url: http://www.gutenberg.org/2009/agents/4706
+      wikipedia: http://en.wikipedia.org/wiki/Guy_L._Steele_Jr.
+description: ''
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TK'
+- !lcsh 'Computers -- Humor'
+- !lcsh 'Computers -- Slang -- Dictionaries'
+- !lcsh 'Electronic data processing -- Terminology -- Humor'
+title: The Jargon File, Version 4.0.0, 24 Jul 1996
+url: http://www.gutenberg.org/ebooks/817
