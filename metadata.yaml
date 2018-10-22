@@ -1,5 +1,5 @@
 _repo: The-Jargon-File-Version-400-24-Jul-1996_817
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Computers -- Humor'
 - !lcsh 'Computers -- Slang -- Dictionaries'
 - !lcsh 'Electronic data processing -- Terminology -- Humor'
+- GITenberg
 title: The Jargon File, Version 4.0.0, 24 Jul 1996
 url: http://www.gutenberg.org/ebooks/817
